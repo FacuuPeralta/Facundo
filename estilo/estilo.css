@@ -1,0 +1,49 @@
+body{
+   
+    margin:0px;
+    background-color: white;
+   
+}
+
+#menu a {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+.carousel-inner{
+    max-height: 40rem;
+    height: auto;
+    width: 100%;
+}
+
+
+
+
+
+
+
+#local{ 
+    background: #f3f3f3;
+    padding-bottom: 0px;
+    display: flex; 
+    margin-bottom: 0px;
+}
+ 
+#texto1{
+    width: 100%;
+    margin-left: 150px;
+    
+}
+
+a{
+    padding-bottom: 0px;
+    text-decoration: none;
+}
+
+/* aca intente hacer que los logos de las redes sociales queden situadas abajo pero nose que estoy haciendo mal */
+#logosr{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-left: 280px;
+}
